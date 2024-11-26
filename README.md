@@ -1,4 +1,4 @@
-<img src="Relaxed_Mario.png" alt="GitHub Banner" width="100%" />
+<img src="Relaxed_Mario.png" alt="Relaxed_Mario" width="100%" />
 
 # 💫 About Me:
  Hello I am currently a pre-final year student in cybersecurity at Chennai Institute Of Technology
