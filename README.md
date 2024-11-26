@@ -1,4 +1,4 @@
-<img src="Relaxed_Mario.png" alt="Relaxed_Mario" width="100%"/>
+<img src="banner.png" alt="banner" width="100%"/>
 
 # 💫 About Me:
 ### About Me 👋  <br>Hi there! I'm Sushant **prefinal-year cybersecurity student** at **Chennai Institute of Technology**, passionate about **ethical hacking, digital forensics, and network security**.  <br><br>- 🔭 Building cybersecurity projects, exploring malware analysis, and penetration testing.  <br>- 🤝 Cybersecurity research, CTFs, and open-source security tools.  <br>- 💡 Advanced threat hunting techniques and reverse engineering.  <br>- 🌐 Cybersecurity internships and self-learning advanced tools.  <br>- ⚡ I enjoy solving CTF challenges and breaking down complex security concepts into simple explanations!  <br>
